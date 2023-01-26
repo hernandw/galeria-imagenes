@@ -7,7 +7,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="container">
-      <Header titulo="Galeria de Imágenes con React" />
+      <Header  titulo="Galeria de Imágenes con React" />
       <div className="row">
       <Card
         titulo="Montaña Figi"
